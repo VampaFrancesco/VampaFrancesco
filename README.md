@@ -14,22 +14,22 @@
 
 ### 🔨 Languages and Tools:
 <div align="center">
-  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" style="margin:5px;">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" style="margin:5px;">
   </a>
-  <a href="https://react.dev" target="_blank" rel="noopener noreferrer">
+  <a href="https://react.dev" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" style="margin:5px;">
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" style="margin:5px;">
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
+  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img alt="Flutter" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg" style="margin:5px;">
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" style="margin:5px;">
   </a>
 </div>
